@@ -1,0 +1,17 @@
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\bin\Debug\net7.0\Adressbok.exe
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\bin\Debug\net7.0\Adressbok.deps.json
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\bin\Debug\net7.0\Adressbok.runtimeconfig.json
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\bin\Debug\net7.0\Adressbok.dll
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\bin\Debug\net7.0\Adressbok.pdb
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\obj\Debug\net7.0\Adressbok.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\obj\Debug\net7.0\Adressbok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\obj\Debug\net7.0\Adressbok.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\obj\Debug\net7.0\Adressbok.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\obj\Debug\net7.0\Adressbok.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\obj\Debug\net7.0\Adressbok.dll
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\obj\Debug\net7.0\refint\Adressbok.dll
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\obj\Debug\net7.0\Adressbok.pdb
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\obj\Debug\net7.0\Adressbok.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\obj\Debug\net7.0\ref\Adressbok.dll
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\anton\OneDrive\Skrivbord\Skola\netutveckling\cSharp\Adressbok\Adressbok\obj\Debug\net7.0\Adressbok.csproj.CopyComplete
